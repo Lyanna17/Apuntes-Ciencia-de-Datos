@@ -15,3 +15,8 @@ Sistema end-to-end de Visión por Computadora para la detección y clasificació
 
 ---
 
+## Requisitos Previos
+
+-Python: 3.9 o superior
+-Entorno Virtual: venv o conda.
+-GPU (Opcional): Compatible con CUDA para inferencia acelerada por hardware.
